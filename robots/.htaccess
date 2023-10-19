@@ -1,0 +1,6 @@
+#Optoins -Indexes
+AuthType Basic 
+AuthName "Restricted Access" 
+AuthUserFile C:/xampp/htdocs/fork/trait/robots/.htpasswd
+AuthGroupFile /
+Require valid-user

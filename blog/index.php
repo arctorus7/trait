@@ -1,6 +1,6 @@
 <?php
 trait SHarableTrait{
-    public function share(){ 
+    public function share(){
         echo self::class .'share with this id:'.$this->id . PHP_EOL;
     }
 }
